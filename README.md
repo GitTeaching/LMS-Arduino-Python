@@ -43,7 +43,7 @@ It uses also sensors like DHT11 to sense, plot on GUI, an save to DB/CSV file al
 
 <img src="https://github.com/GitTeaching/LMS-Arduino-Python/blob/master/screenshots%20%26%20circuits/20200825_212922.jpg" width="700">
 
-![alt text](https://github.com/GitTeaching/LMS-Arduino-Python/blob/master/screenshots%20%26%20circuits/20200828_212734.jpg?raw=true)
+<img src="https://github.com/GitTeaching/LMS-Arduino-Python/blob/master/screenshots%20%26%20circuits/20200828_212734.jpg" width="700">
 
 ##### Python Part :
 
