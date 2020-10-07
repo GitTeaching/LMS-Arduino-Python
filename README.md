@@ -40,7 +40,7 @@ It also uses sensors like DHT11 to collect, plot on GUI, and save to DB/CSV file
 
 **5 -** Final result :
 
-<img src="https://github.com/GitTeaching/LMS-Arduino-Python/blob/master/screenshots%20%26%20circuits/20200825_212922.jpg" width="700">
+<img src="https://github.com/GitTeaching/LMS-Arduino-Python/blob/master/screenshots%20%26%20circuits/20200825_203313.jpg" width="700">
 
 <img src="https://github.com/GitTeaching/LMS-Arduino-Python/blob/master/screenshots%20%26%20circuits/20200825_212922.jpg" width="700">
 
