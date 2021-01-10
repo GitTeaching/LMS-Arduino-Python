@@ -1,6 +1,6 @@
 # LMS-Arduino-Python
 
-#### Library Management System using RFID MFRC522, Arduino, Python Tkinter, DHT11 Sensor, and MySQL.
+#### Smart Library Management System using RFID MFRC522, Arduino, Python Tkinter, DHT11 Sensor, and MySQL.
 
 In this project, RFID-RC522 is interfaced with Arduino and then RFID data is sent to Tkinter GUI and MySQL database using Python.
 
