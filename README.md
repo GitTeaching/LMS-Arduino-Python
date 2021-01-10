@@ -1,4 +1,4 @@
-# LMS-Arduino-Python
+# Smart LMS-Arduino-Python
 
 #### Smart Library Management System using RFID MFRC522, Arduino, Python Tkinter, DHT11 Sensor, and MySQL.
 
